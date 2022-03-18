@@ -1,0 +1,115 @@
+{
+  "listTitle": "Nagłówek drzewa wielowierszowy",
+  "subdivisions": [
+    {
+      "name": "Pododdział 1",
+      "teams": [
+        { "number": "Zespół 1", "name": "HR" },
+        {
+          "number": "Zespół 2",
+          "name": "Marketing"
+        },
+        {
+          "number": "Zespół 3",
+          "name": "Analitycy",
+          "subteams": [
+            { "number": "Podzespół 3.1", "name": "Kalendarz" },
+            { "number": "Podzespół 3.2", "name": "Kokpit" },
+            { "number": "Podzespół 3.3", "name": "Widok" },
+            { "number": "Podzespół 3.4", "name": "Różności" },
+            { "number": "Podzespół 3.5", "name": "Szukaj" }
+          ]
+        },
+        {
+          "number": "Zespół 4",
+          "name": "Programiści",
+          "subteams": [
+            {
+              "number": "Podzespół 4.1",
+              "name": "Front-end"
+            },
+            {
+              "number": "Podzespół 4.2",
+              "name": "Middle-front-end"
+            },
+            {
+              "number": "Podzespół 4.3",
+              "name": "Middle-end"
+            },
+            {
+              "number": "Podzespół 4.4",
+              "name": "Middle-back-end"
+            },
+            { "number": "Podzespół 4.5", "name": "Back-end" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pododdział 2",
+      "teams": [
+        { "number": "Zespół 1", "name": "Zespół 1" },
+        {
+          "number": "Zespół 2",
+          "name": "Zespół 2"
+        },
+        {
+          "number": "Zespół 3",
+          "name": "Zespół 3",
+          "subteams": [
+            {
+              "number": "Podzespół 3.1",
+              "name": "Podzespół 3.1"
+            },
+            {
+              "number": "Podzespół 3.2",
+              "name": "Podzespół 3.2"
+            },
+            {
+              "number": "Podzespół 3.3",
+              "name": "Podzespół 3.3"
+            },
+            {
+              "number": "Podzespół 3.4",
+              "name": "Podzespół 3.4"
+            },
+            {
+              "number": "Podzespół 3.5",
+              "name": "Podzespół 3.5"
+            }
+          ]
+        },
+        {
+          "number": "Zespół 4",
+          "name": "Zespół 4",
+          "subteams": [
+            {
+              "number": "Podzespół 4.1",
+              "name": "Podzespół 4.1"
+            },
+            {
+              "number": "Podzespół 4.2",
+              "name": "Podzespół 4.2"
+            },
+            {
+              "number": "Podzespół 4.3",
+              "name": "Podzespół 4.3"
+            },
+            {
+              "number": "Podzespół 4.4",
+              "name": "Podzespół 4.4"
+            },
+            {
+              "number": "Podzespół 4.5",
+              "name": "Podzespół 4.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pododdział 3",
+      "teams": []
+    }
+  ]
+}
